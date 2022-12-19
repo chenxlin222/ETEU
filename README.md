@@ -16,8 +16,7 @@ This code is compatible with six aerial tracking benchmarks, i.e., UAV123, UAV12
 ### (1) UAV123
 
 <img src="https://github.com/chenxlin222/ETEU/blob/main/figs/UAV123/precision_OPE.png" width="375px">
-  ![img](https://github.com/chenxlin222/ETEU/blob/main/figs/UAV123/precision_OPE.png)
-  ![img](https://github.com/chenxlin222/ETEU/blob/main/figs/UAV123/success_OPE.png)
+<img src="https://github.com/chenxlin222/ETEU/blob/main/figs/UAV123/success_OPE.png" width="375px">
     
 ### (2) UAVDT
   ![img](https://github.com/chenxlin222/ETEU/blob/main/figs/UAVDT/quality_plot_error_OPE.png)
