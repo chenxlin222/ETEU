@@ -33,7 +33,7 @@ This code is compatible with six aerial tracking benchmarks, i.e., UAV123, UAV12
 
 <img src="https://github.com/chenxlin222/ETEU/blob/main/figs/DTB70/quality_plot_error_OPE_threshold.png" width="375px"> <img src="https://github.com/chenxlin222/ETEU/blob/main/figs/DTB70/quality_plot_overlap_OPE_AUC.png" width="375px">
 
-
+## 3. The tracking mission in three different environments
 The tracking experiment in the environment with multiple static similar people.
 ![img](https://github.com/chenxlin222/ETEU-tracker/blob/main/img/multi_person_tracking.gif)
 
