@@ -1,5 +1,5 @@
 
-Matlab implementation of our tracker. The default parameters are for UAV123 dataset.
+Matlab implementation of our tracker. The default parameters in tracker_ETEU.m are for UAV123 dataset.
 
 
 # Acknowledgements
