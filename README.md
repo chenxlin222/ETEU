@@ -2,7 +2,7 @@
 
 Matlab implementation of our ETEU tracker.
 
-The results, precision and success plots for six aerial tracking benchmarks have been released. And the code is coming soon.
+The results, precision and success plots for six aerial tracking benchmarks have been released. 
 
 ## 1. Demonstration running instructions
 
