@@ -44,4 +44,9 @@ The tracking experiment in the environment with multiple moving similar people.
 ![img](https://github.com/chenxlin222/ETEU-tracker/blob/main/img/multi_person_tracking_moving.gif)
 
 ## 4. The tracking mission in real complex environments
-scenario one:
+scenario one (Drone view 2.5X):
+![img](https://github.com/chenxlin222/ETEU/blob/main/img/scenario_one_2point5X.gif)
+scenario two (Drone view 2X):
+![img](https://github.com/chenxlin222/ETEU/blob/main/img/scenario_two_2X.gif)
+global view (2.5X):
+![img](https://github.com/chenxlin222/ETEU/blob/main/img/scenario_one_2point5X_global.gif)
